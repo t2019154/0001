@@ -1,0 +1,16 @@
+├── Kensyu001
+│   ├── file_make00.sh
+│   ├── list.txt
+│   ├── list_make.sh
+│   └── tmp.txt
+├── Kensyu002
+│   ├── file_make100.sh
+│   ├── list_00100.txt
+│   ├── list_100.txt
+│   └── list_make100.sh
+├── Kensyu003
+│   └── parm_check.sh
+├── Kensyu004
+│   └── parm_opt.sh
+├── Kensyu901
+└── rename.sh

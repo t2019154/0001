@@ -1,0 +1,65 @@
+.
+├── Kadai
+│   └── kensyu.tar.gz
+├── Kensyu005
+│   └── daemon_make.bash
+├── Kensyu006
+│   └── daemon_bgRun.bash
+├── Kensyu007
+│   ├── bk
+│   │   └── daemon_bgStop_before.bash
+│   └── daemon_bgStop.bash
+├── Kensyu008
+│   ├── bk
+│   │   └── daemon_sleepStop_before.bash
+│   ├── daemon_sleepStop.bash
+│   └── sleep_set.txt
+├── Kensyu009
+│   └── single_process.bash
+├── Kensyu010
+│   ├── bk
+│   │   ├── multi_process_bk01.bash
+│   │   ├── multi_process_bk02.bash
+│   │   └── multi_process_bk03.bash
+│   ├── multi_process_make_while.bash
+│   └── multi_process_make_xargs.bash
+├── Kensyu011
+│   ├── syslog_output.bash
+│   └── syslog_test.txt
+├── Kensyu012
+│   └── coop_ptn_2_4.bash
+├── Kensyu013
+│   └── coop_ptn_2_5.bash
+├── Kensyu014
+│   └── coop_4_6.bash
+├── Kensyu015
+│   ├── backup_dir
+│   │   ├── bk_Kensyu015_20200714_1648.tar.gz
+│   │   ├── bk_Kensyu015_20200714_1700.tar.gz
+│   │   ├── bk_Kensyu015_20200715_1000.tar.gz
+│   │   ├── bk_Kensyu015_20200715_1100.tar.gz
+│   │   ├── bk_Kensyu015_20200715_1200.tar.gz
+│   │   └── bk_Kensyu015_20200715_1400.tar.gz
+│   └── tar_make.bash
+├── Kensyu016
+│   └── data_edit.bash
+├── Kensyu017
+│   └── data_edit_query.bash
+├── Kensyu101
+│   ├── bk
+│   │   └── parent.bash
+│   ├── ksh_101_child.ksh
+│   └── ksh_101_parent.ksh
+├── Kensyu303
+│   ├── file_make00.bash
+│   ├── list.txt
+│   ├── list_make.bash
+│   └── tmp.txt
+├── Kensyu304
+│   ├── query_check_ebcdic.txt
+│   ├── query_check_sjis.txt
+│   └── query_check_utf8.txt
+├── ksh_bash_list_Kensyu010.csv
+└── tree_Linux_Kensyu.txt
+
+22 directories, 40 files
